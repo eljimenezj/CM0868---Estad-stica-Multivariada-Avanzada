@@ -4,7 +4,10 @@ Este repositorio contiene los resultados del poroyecto final de Estadística Mul
 
 El proyecto academico se centro en el estudio de tecnicas y sus resultados con el objetivo de ser un modelo de negocio en el futuro que permita realizar controles en las ventas e inventarios de negocios gastronomicos pequeños y medianos.
 
-Nota: Para la lectura de los datos el notebook, que puede ser abierto mediante colab, esta direccionado hacia Google Drive, si se desea replicar los resultados puede subir las carpetas de que se encuentran en "Dataset" a Google Drive, y redirigir el path hacia su drive o puede descargarlas y trabajar de manera local pero debe redirigir la lectura de datos a su path local.
+Notas: 
+1. Para la lectura de los datos el notebook, que puede ser abierto mediante colab, esta direccionado hacia Google Drive, si se desea replicar los resultados puede subir las carpetas de que se encuentran en "Dataset" a Google Drive, y redirigir el path hacia su drive o puede descargarlas y trabajar de manera local pero debe redirigir la lectura de datos a su path local.
+
+2. El archivo Libraries.txt contiene las librerias que se cargaron en el notebook de la modelación final.
 
 Los estudiantes que presentan este proyecto son:
 
