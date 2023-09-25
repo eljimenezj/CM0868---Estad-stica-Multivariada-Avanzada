@@ -9,12 +9,8 @@ Notas:
 
 2. El archivo Libraries.txt contiene las librerias que se cargaron en el notebook de la modelación final.
 
-Los estudiantes que presentan este proyecto son:
+Autores:
 
 1. Jorge Luis Renteria Roa
 2. Edgar Leandro Jimenez Jaimes
 
-El profesor a cargo de este curso es Tomas Olarte.
-
-
-Semestre 2020-01.
